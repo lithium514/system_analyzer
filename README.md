@@ -1,2 +1,2 @@
 # system_analyzer
-A system analyzer writtened by Rust
+A system analyzer written by Rust
